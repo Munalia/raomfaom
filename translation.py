@@ -59,4 +59,4 @@ Please short your file name and try again!"""
     About = """Hi __{}__,
 
 
-**This Bot Can Convert As File/Video**)"""
+**This Bot Can Convert As File/Video**to"""
