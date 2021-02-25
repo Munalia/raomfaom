@@ -48,15 +48,4 @@ I am Renamer bot ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫</a>
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
 Free users only 1 request per 30 minutes.
-/upgrade or Try 1800 seconds later."""
-    IFLONG_FILE_NAME = """File Name limit allowed by Telegram is {alimit} characters.
-The given file name has {num} characters.
-
-<b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@renamer_Ns_bot</code>
-Please short your file name and try again!"""
-
-    About = """Hi __{}__,
-
-
-**This Bot Can Convert As File/Video**to"""
+/upgrade or Try 1800 seconds later.""" 
